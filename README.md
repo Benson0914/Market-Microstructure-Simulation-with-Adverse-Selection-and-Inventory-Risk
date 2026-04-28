@@ -43,10 +43,11 @@ Even with positive spread capture, the strategy can be unprofitable when invento
 # **🔬 Experiment Results**
 
 ========================== PnL Breakdown ==========================
-Spread PnL: 18.9299
-Adverse Selection: -2.5179
-Inventory Exposure: 0.4741
-Total PnL: 16.8861
+
+- Spread PnL: 18.9299
+- Adverse Selection: -2.5179
+- Inventory Exposure: 0.4741
+- Total PnL: 16.8861
 
 # **🚀 Extensions**
 
